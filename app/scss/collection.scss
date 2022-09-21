@@ -1,0 +1,104 @@
+.collection{
+    background-color: #E6E3C4;
+    display: flex;
+    width: 1903px;
+    height: 1038px;
+    left: 0px;
+    top: 1756px; 
+}
+
+.collection_cntent>hr{
+    position: absolute;
+    width: 1110px;
+    margin-top: 80px;
+    left: 405px;
+    border: 1px solid #998431;
+}
+
+
+.collection_cntent>h5{
+    position: absolute;
+   width: 347px;
+   height: 24px;
+   left: 405px;
+   margin-top: 140px;
+   font-size: 16px;
+}
+
+.collection_cntent>h3>hr{
+    position: absolute;
+    width: 160px;
+    background: #282828;
+    border: 1px solid #282828;
+    margin-top: 30px;
+}
+
+.collection_cntent>h3{
+    position: absolute;
+    width: 298px;
+    height: 108px;
+    left: 405px;
+    margin-top: 194px;
+    font-size: 36px;
+}
+
+table{
+    margin-left: 405px;
+    width: 445px;
+    height: 228px;
+    margin-top: 476px;
+    border: 2px solid #E6E3C4;
+}
+
+td {
+    border: 1px solid ;
+    font-size: 14px;
+    text-align: center;
+ }
+
+ td>h4{
+    font-size: 18px;
+ }
+
+ td>p{
+    font-size: 14px;
+    margin-right: 50px;
+ }
+
+ .img_Rectangle{
+    background-image: url(../images/slider.svg);
+    position: absolute;
+    width: 540px;
+    height: 758px;
+    left: 975px;
+    top: 1896px;
+ }
+
+ .text3{
+    position: absolute;
+    width: 390px;
+    margin-top: 362px;
+    left: 405px;
+    font-size: 14px;
+ }
+
+ .text2{
+    width: 390px;
+    height: 84px;
+    margin-left: 405px;
+    margin-top: 30px;
+    font-size: 14px;
+ }
+
+ button{
+    background: #998431;
+    margin-top: 10px;
+    border: 1px;
+    width: 254px;
+    height: 50px;
+    margin-left: 405px;
+    font-size: 16px;
+    color: #FFFFFF;
+
+ }
+
